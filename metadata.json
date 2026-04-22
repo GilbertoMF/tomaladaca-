@@ -1,0 +1,6 @@
+{
+  "name": "NEXUSPlay P2P",
+  "description": "Aplicativo para transmissão de objetos e informações entre dispositivos em tempo real via WebSockets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
